@@ -5,7 +5,7 @@
 - [ ] Resterande personal utöver Per och Maria (namn, titel)
 - [ ] Riktig prislista/prisspann (nuvarande är platshållare)
 - [x] Vägbeskrivning/parkering/kollektivtrafik-text till kontaktsektionen
-- [ ] Bekräfta om ni är anslutna till statligt tandvårdsstöd/högkostnadsskydd — lyft fram på sajten om ja
+- [x] Bekräfta om ni är anslutna till statligt tandvårdsstöd/högkostnadsskydd — lyft fram på sajten om ja (bekräftat: anslutna till Försäkringskassan)
 
 ## Innehåll jag kan skriva ett utkast av
 - [x] "Inför operationen" / "Efter operationen" — utkast klart, väntar på Pers granskning
@@ -14,7 +14,7 @@
 ## Teknik/design jag kan bygga direkt (inget innehåll krävs)
 - [x] Sticky ring-knapp på mobil (alltid synlig vid scroll)
 - [x] Kartan inbäddad i kontaktsektionen
-- [ ] Enkel integritetspolicy/cookie-notis i sidfoten
+- [x] Enkel integritetspolicy/cookie-notis i sidfoten
 
 ## Kräver att Per/Maria agerar utanför sajten
 - [ ] Kolla om familjen redan har ett Loopia-konto för karlakliniken.se (domänen är redan registrerad sedan 2003, troligen använd för e-post)
