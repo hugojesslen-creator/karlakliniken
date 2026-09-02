@@ -18,8 +18,8 @@
 
 ## Kräver att Per/Maria agerar utanför sajten
 - [ ] Kolla om familjen redan har ett Loopia-konto för karlakliniken.se (domänen är redan registrerad sedan 2003, troligen använd för e-post)
-- [ ] Göra anspråk på Google Business-profilen (google.com/business, sök "Karlakliniken AB", vykortsverifiering)
-- [ ] Svara på de negativa Google-recensionerna via den verifierade profilen
+- [x] Göra anspråk på Google Business-profilen — videoverifiering inskickad, status "Behandlas" hos Google (väntar på godkännande, tar några dagar)
+- [ ] Svara på de negativa Google-recensionerna — vänta tills profilen är verifierad
 
 ## Vänta med tills ovanstående är klart
 - [ ] Google-betygsbadge på sajten ("3,9★ baserat på 41 recensioner, se alla →") — lägg till EFTER att recensionerna är besvarade, annars drar den mer uppmärksamhet till obesvarad kritik än den ger förtroende
