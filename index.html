@@ -237,6 +237,14 @@
   table.pricing td:last-child{text-align:right;font-variant-numeric:tabular-nums;color:var(--ink);font-weight:600;}
   .price-note{margin-top:20px;font-size:14.5px;color:var(--ink-soft);}
 
+  /* OP INFO */
+  .op-info-grid{display:grid;grid-template-columns:1fr 1fr;gap:40px;}
+  .op-info-block h3{font-size:19px;font-weight:600;}
+  .op-info-block ul{margin:14px 0 0;padding-left:20px;color:var(--ink-soft);font-size:15.5px;line-height:1.7;}
+  .op-info-block li{margin-bottom:10px;}
+  .op-info-block li:last-child{margin-bottom:0;}
+  @media (max-width:700px){ .op-info-grid{grid-template-columns:1fr;gap:32px;} }
+
   /* GALLERY placeholders */
   .gallery{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;}
   .ph-panel{
@@ -466,6 +474,39 @@
       </tbody>
     </table>
     <p class="price-note">Priserna ovan är platshållare — ersätt med klinikens faktiska prislista. <span class="placeholder-flag">Platshållartext</span></p>
+  </div>
+</section>
+
+<section id="infor-efter-op">
+  <div class="wrap">
+    <div class="section-head">
+      <div class="eyebrow">Praktisk information</div>
+      <h2>Inför och efter din operation</h2>
+      <p>Kort information om vad som gäller kring ett käkkirurgiskt ingrepp. Vid din bokning eller ditt besök får du alltid mer detaljerade instruktioner anpassade efter just ditt ingrepp.</p>
+    </div>
+    <div class="op-info-grid">
+      <div class="op-info-block">
+        <h3>Inför operationen</h3>
+        <ul>
+          <li>Följ de instruktioner om fasta som du får inför ditt besök, särskilt om ingreppet sker under sedering eller narkos.</li>
+          <li>Berätta för oss om mediciner du tar, särskilt blodförtunnande läkemedel, samt eventuella allergier.</li>
+          <li>Om du ska sederas behöver du ha någon som kan följa med dig hem — du får inte köra bil själv samma dag.</li>
+          <li>Klä dig bekvämt och kom gärna i god tid till ditt besök.</li>
+          <li>Har du frågor inför ditt ingrepp är du alltid välkommen att ringa oss.</li>
+        </ul>
+      </div>
+      <div class="op-info-block">
+        <h3>Efter operationen</h3>
+        <ul>
+          <li>Viss svullnad och ömhet är normalt de första dagarna — kylning kan lindra.</li>
+          <li>Följ de råd om smärtlindring, kost och munhygien som du får med dig efter besöket.</li>
+          <li>Undvik ansträngande fysisk aktivitet, rökning och alkohol den första tiden efter ingreppet.</li>
+          <li>Vid kraftig blödning, hög feber eller smärta som inte lindras av receptfri smärtlindring, kontakta oss.</li>
+          <li>Vid behov av uppföljning bokar vi en återbesökstid med dig.</li>
+        </ul>
+      </div>
+    </div>
+    <p class="price-note">Informationen ovan är generell — exakta instruktioner för just ditt ingrepp får du alltid muntligt och skriftligt av oss. <span class="placeholder-flag">Bör granskas av klinikens käkkirurg</span></p>
   </div>
 </section>
 
