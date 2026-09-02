@@ -1,0 +1,26 @@
+# Att göra — Karlakliniken-hemsidan
+
+## Innehåll som väntar på er (kan inte fyllas i utan er input)
+- [ ] Riktiga foton av lokalerna och personalen (ersätter platshållarna i galleriet)
+- [ ] Resterande personal utöver Per och Maria (namn, titel)
+- [ ] Riktig prislista/prisspann (nuvarande är platshållare)
+- [ ] Vägbeskrivning/parkering/kollektivtrafik-text till kontaktsektionen
+- [ ] Bekräfta om ni är anslutna till statligt tandvårdsstöd/högkostnadsskydd — lyft fram på sajten om ja
+
+## Innehåll jag kan skriva ett utkast av
+- [ ] "Inför din operation"-sektion (fasta, ledsagare, bedövning/lugnande)
+- [ ] "Efter operationen"-sektion (blödning, svullnad, smärtlindring)
+- [ ] Lyft fram "etablerad 1997" tydligare som förtroendeargument i Om oss
+
+## Teknik/design jag kan bygga direkt (inget innehåll krävs)
+- [ ] Sticky ring-knapp på mobil (alltid synlig vid scroll)
+- [ ] Enkel integritetspolicy/cookie-notis i sidfoten
+
+## Kräver att Per/Maria agerar utanför sajten
+- [ ] Kolla om familjen redan har ett Loopia-konto för karlakliniken.se (domänen är redan registrerad sedan 2003, troligen använd för e-post)
+- [ ] Göra anspråk på Google Business-profilen (google.com/business, sök "Karlakliniken AB", vykortsverifiering)
+- [ ] Svara på de negativa Google-recensionerna via den verifierade profilen
+
+## Vänta med tills ovanstående är klart
+- [ ] Google-betygsbadge på sajten ("3,9★ baserat på 41 recensioner, se alla →") — lägg till EFTER att recensionerna är besvarade, annars drar den mer uppmärksamhet till obesvarad kritik än den ger förtroende
+- [ ] Ta bort sökmotorspärren (`noindex` + `robots.txt`) — när sajten är redo att gå live
