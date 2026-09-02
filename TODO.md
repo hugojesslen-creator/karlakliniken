@@ -4,16 +4,16 @@
 - [ ] Riktiga foton av lokalerna och personalen (ersätter platshållarna i galleriet)
 - [ ] Resterande personal utöver Per och Maria (namn, titel)
 - [ ] Riktig prislista/prisspann (nuvarande är platshållare)
-- [ ] Vägbeskrivning/parkering/kollektivtrafik-text till kontaktsektionen
+- [x] Vägbeskrivning/parkering/kollektivtrafik-text till kontaktsektionen
 - [ ] Bekräfta om ni är anslutna till statligt tandvårdsstöd/högkostnadsskydd — lyft fram på sajten om ja
 
 ## Innehåll jag kan skriva ett utkast av
-- [ ] "Inför din operation"-sektion (fasta, ledsagare, bedövning/lugnande)
-- [ ] "Efter operationen"-sektion (blödning, svullnad, smärtlindring)
-- [ ] Lyft fram "etablerad 1997" tydligare som förtroendeargument i Om oss
+- [x] "Inför operationen" / "Efter operationen" — utkast klart, väntar på Pers granskning
+- [x] "Etablerad 1997" nämns i Om oss
 
 ## Teknik/design jag kan bygga direkt (inget innehåll krävs)
-- [ ] Sticky ring-knapp på mobil (alltid synlig vid scroll)
+- [x] Sticky ring-knapp på mobil (alltid synlig vid scroll)
+- [x] Kartan inbäddad i kontaktsektionen
 - [ ] Enkel integritetspolicy/cookie-notis i sidfoten
 
 ## Kräver att Per/Maria agerar utanför sajten
