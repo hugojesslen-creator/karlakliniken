@@ -246,6 +246,18 @@
   .op-info-block li:last-child{margin-bottom:0;}
   @media (max-width:700px){ .op-info-grid{grid-template-columns:1fr;gap:32px;} }
 
+  /* FAQ */
+  .faq-list{border-top:1px solid var(--line-strong);}
+  .faq-item{border-bottom:1px solid var(--line);padding:18px 0;}
+  .faq-item summary{
+    cursor:pointer;font-weight:600;font-size:16.5px;list-style:none;
+    display:flex;justify-content:space-between;align-items:center;gap:16px;
+  }
+  .faq-item summary::-webkit-details-marker{display:none;}
+  .faq-item summary::after{content:'+';font-size:20px;color:var(--navy-mid);flex:none;}
+  .faq-item[open] summary::after{content:'\2013';}
+  .faq-item p{margin:12px 0 0;color:var(--ink-soft);font-size:15.5px;line-height:1.6;max-width:64ch;}
+
   /* GALLERY placeholders */
   .gallery{display:grid;grid-template-columns:repeat(3,1fr);gap:20px;}
   .ph-panel{
@@ -393,7 +405,7 @@
       <div class="index-item">
         <div class="num">02</div>
         <h3>Käkkirurgi</h3>
-        <p>Utförs av specialistkompetent kirurg — med eller utan remiss.</p>
+        <p>Utförs av specialistkompetent kirurg. Vi tar emot patienter både med och utan remiss, och remitterar tillbaka till din ordinarie tandläkare efter avslutad behandling.</p>
       </div>
       <div class="index-item">
         <div class="num">03</div>
@@ -493,6 +505,49 @@
       </div>
     </div>
     <p class="price-note">Informationen ovan är generell — exakta instruktioner för just ditt ingrepp får du alltid muntligt och skriftligt av oss. <span class="placeholder-flag">Bör granskas av klinikens käkkirurg</span></p>
+  </div>
+</section>
+
+<section id="faq">
+  <div class="wrap">
+    <div class="section-head">
+      <div class="eyebrow">Vanliga frågor</div>
+      <h2>Frågor och svar</h2>
+    </div>
+    <div class="faq-list">
+      <details class="faq-item">
+        <summary>Behöver jag remiss?</summary>
+        <p>Nej, vi tar emot både med och utan remiss.</p>
+      </details>
+      <details class="faq-item">
+        <summary>Gör det ont?</summary>
+        <p>Ingreppet sker under lokalbedövning, vid behov även sedering. Vid behov skriver vi ut smärtlindring på recept.</p>
+      </details>
+      <details class="faq-item">
+        <summary>Hur lång är återhämtningen?</summary>
+        <p>Det varierar med ingreppets omfattning — vanligtvis några dagars svullnad och ömhet. Se "Inför och efter din operation" ovan.</p>
+      </details>
+      <details class="faq-item">
+        <summary>Vilka språk kan ni ta emot mig på?</summary>
+        <p>Svenska och engelska.</p>
+      </details>
+      <details class="faq-item">
+        <summary>Vad gör jag om jag behöver avboka?</summary>
+        <p>Hör av dig till oss så snart som möjligt.</p>
+      </details>
+      <details class="faq-item">
+        <summary>Vad kostar ett besök?</summary>
+        <p>Kostnaden beror på behandlingens omfattning. Vid undersökning eller konsultation får du alltid ett förslag på behandling och kostnad. Vi är anslutna till Försäkringskassans tandvårdsstöd.</p>
+      </details>
+      <details class="faq-item">
+        <summary>Hur bokar jag tid?</summary>
+        <p>Vi bokar inte tid online — ring oss på 08-23 20 00 under våra öppettider.</p>
+      </details>
+      <details class="faq-item">
+        <summary>Jag är nervös inför besöket, vad kan jag göra?</summary>
+        <p>Det är vanligt att känna oro inför ett kirurgiskt ingrepp. Hör gärna av dig till oss i förväg om du vill prata igenom vad som kommer hända.</p>
+      </details>
+    </div>
   </div>
 </section>
 
