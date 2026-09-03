@@ -184,21 +184,9 @@
   .section-head p{color:var(--ink-soft);margin-top:14px;font-size:16px;max-width:56ch;}
 
   /* OM OSS */
-  .about-grid{
-    display:grid;grid-template-columns:1.4fr 1fr;gap:56px;align-items:start;
-  }
-  .about-grid p{color:var(--ink-soft);font-size:16.5px;margin:0 0 16px;}
-  .about-grid p:last-child{margin-bottom:0;}
-  .facts{
-    background:var(--paper-raised);border:1px solid var(--line);
-    padding:28px;border-radius:var(--radius);
-  }
-  .facts dl{margin:0;display:grid;gap:18px;}
-  .facts .row{border-top:1px solid var(--line);padding-top:14px;}
-  .facts .row:first-child{border-top:none;padding-top:0;}
-  .facts dt{font-size:12.5px;letter-spacing:0.08em;text-transform:uppercase;color:var(--navy-mid);font-weight:700;}
-  .facts dd{margin:5px 0 0;font-size:16px;font-weight:600;}
-  @media (max-width:820px){ .about-grid{grid-template-columns:1fr;} }
+  .about-copy{max-width:640px;}
+  .about-copy p{color:var(--ink-soft);font-size:16.5px;margin:0 0 16px;}
+  .about-copy p:last-child{margin-bottom:0;}
 
   /* SERVICES – index style */
   .index-list{border-top:1px solid var(--line-strong);}
@@ -343,37 +331,11 @@
 
 <section id="om-oss">
   <div class="wrap">
-    <div class="about-grid">
-      <div>
-        <div class="eyebrow">Om oss</div>
-        <h2 style="margin-top:10px;">En klinik byggd på kunskap, erfarenhet och noggrannhet.</h2>
-        <p style="margin-top:22px;">Karlakliniken grundades 1997 med målet att erbjuda specialisttandvård av hög kvalitet i en trygg och personlig miljö. Genom åren har vi byggt upp en särskild spetskompetens inom käkkirurgi, och tar idag emot både egna patienter och patienter på remiss.</p>
-        <p>Karlakliniken är ett familjeföretag — kliniken ägs och drivs av Per och Maria Jesslén, och har varit det sedan starten. <span class="placeholder-flag">Fyll på med er egen berättelse</span></p>
-      </div>
-      <div class="facts">
-        <dl>
-          <div class="row">
-            <dt>Grundad</dt>
-            <dd>1997</dd>
-          </div>
-          <div class="row">
-            <dt>Ägs av</dt>
-            <dd>Per och Maria Jesslén</dd>
-          </div>
-          <div class="row">
-            <dt>Specialistinriktning</dt>
-            <dd>Käkkirurgi</dd>
-          </div>
-          <div class="row">
-            <dt>Organisationsnummer</dt>
-            <dd>556538-1588</dd>
-          </div>
-          <div class="row">
-            <dt>Adress</dt>
-            <dd>Styrmansgatan 45, Stockholm</dd>
-          </div>
-        </dl>
-      </div>
+    <div class="about-copy">
+      <div class="eyebrow">Om oss</div>
+      <h2 style="margin-top:10px;">En klinik byggd på kunskap, erfarenhet och noggrannhet.</h2>
+      <p style="margin-top:22px;">Karlakliniken grundades 1997 med målet att erbjuda specialisttandvård av hög kvalitet i en trygg och personlig miljö. Genom åren har vi byggt upp en särskild spetskompetens inom käkkirurgi, och tar idag emot både egna patienter och patienter på remiss.</p>
+      <p>Karlakliniken är ett familjeföretag — kliniken ägs och drivs av Per och Maria Jesslén, och har varit det sedan starten. <span class="placeholder-flag">Fyll på med er egen berättelse</span></p>
     </div>
   </div>
 </section>
