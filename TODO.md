@@ -4,6 +4,7 @@
 - [ ] Riktiga foton av lokalerna och personalen (ersätter platshållarna i galleriet)
 - [x] Resterande personal — 10 kollegor tillagda efter research (Gunnar Hall, Carina Pekkari, Erik Friman, Michele Eklund, Babak Kaveh, Nazanin Sohrabi, Madelaine Fredriksson, Ida Skoglund, Nathalie Mavromatis, Karina Benavidez). Leila Afrasiabi kvar — ni ska kolla hennes roll själva
 - [ ] Riktig prislista/prisspann (nuvarande är platshållare)
+- [ ] Bekräfta om rotfyllningar faktiskt görs på kliniken — nämns just nu i Allmän tandvård-texten ("Undersökningar, lagningar, rotfyllningar och förebyggande vård"), osäkert om det stämmer. FRÅGA HUGO IGEN.
 - [x] Vägbeskrivning/parkering/kollektivtrafik-text till kontaktsektionen
 - [x] Bekräfta om ni är anslutna till statligt tandvårdsstöd/högkostnadsskydd — lyft fram på sajten om ja (bekräftat: anslutna till Försäkringskassan)
 
