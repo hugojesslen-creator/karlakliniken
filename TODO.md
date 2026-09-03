@@ -10,6 +10,12 @@
 ## Innehåll jag kan skriva ett utkast av
 - [x] "Inför operationen" / "Efter operationen" — utkast klart, väntar på Pers granskning
 - [x] "Etablerad 1997" nämns i Om oss
+- [x] FAQ-sektion (8 frågor: remiss, smärta, återhämtning, språk, avbokning, kostnad, bokning, oro/nervositet)
+- [x] Mening till remitterande tandläkare i Käkkirurgi-posten ("remitterar tillbaka... tar inte över patientrelationer")
+
+## Från andra research-rundan — inte gjort än
+- [ ] Kort stycke om hygien/steriliseringsrutiner + konkret tillgänglighetsinfo (hiss/trappor/rullstol till Styrmansgatan 45)
+- [ ] Rad om att missnöjda patienter kan vända sig till Löf/IVO (lägre prioritet)
 
 ## Teknik/design jag kan bygga direkt (inget innehåll krävs)
 - [x] Sticky ring-knapp på mobil (alltid synlig vid scroll)
