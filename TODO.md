@@ -17,7 +17,7 @@
 - [x] Enkel integritetspolicy/cookie-notis i sidfoten
 
 ## Kräver att Per/Maria agerar utanför sajten
-- [ ] Kolla om familjen redan har ett Loopia-konto för karlakliniken.se (domänen är redan registrerad sedan 2003, troligen använd för e-post)
+- [ ] Loopia — kontot är bekräftat gammalt (registrerat 2003, BankID/lösenordsåterställning fungerar inte). Mejl skickat till support@loopia.se för manuell återställning av åtkomst — väntar på svar
 - [x] Göra anspråk på Google Business-profilen — videoverifiering inskickad, status "Behandlas" hos Google (väntar på godkännande, tar några dagar)
 - [ ] Svara på de negativa Google-recensionerna — vänta tills profilen är verifierad
 

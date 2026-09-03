@@ -1,0 +1,21 @@
+Till: support@loopia.se
+Ämne: Förlorad åtkomst till konto – domänen karlakliniken.se
+
+Hej,
+
+Jag kontaktar er angående domänen karlakliniken.se, som är registrerad hos er sedan 2003.
+
+Domänen tillhör Karlakliniken AB, org.nr 556538-1588. Jag har förlorat åtkomsten till kontot och saknar både kundnummer och inloggningsuppgifter. Jag har provat att logga in med BankID utan att lyckas (kontot skapades innan BankID användes som inloggningsmetod hos er), och "glömt lösenord"-funktionen ger också fel.
+
+Jag skulle uppskatta hjälp med att återfå åtkomst till kontot, så att jag kan hantera domänens DNS-inställningar. Jag kan gärna styrka att jag representerar Karlakliniken AB om det behövs, till exempel med organisationsnummer, registreringsbevis eller legitimation.
+
+Kontaktuppgifter:
+Namn: [Ditt namn]
+Telefon: [Ditt telefonnummer]
+E-post: [Din e-postadress]
+
+Tack på förhand för hjälpen.
+
+Med vänlig hälsning,
+[Ditt namn]
+Karlakliniken AB
