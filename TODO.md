@@ -2,7 +2,7 @@
 
 ## Innehåll som väntar på er (kan inte fyllas i utan er input)
 - [ ] Riktiga foton av lokalerna och personalen (ersätter platshållarna i galleriet)
-- [ ] Resterande personal utöver Per och Maria (namn, titel)
+- [x] Resterande personal — 10 kollegor tillagda efter research (Gunnar Hall, Carina Pekkari, Erik Friman, Michele Eklund, Babak Kaveh, Nazanin Sohrabi, Madelaine Fredriksson, Ida Skoglund, Nathalie Mavromatis, Karina Benavidez). Leila Afrasiabi kvar — ni ska kolla hennes roll själva
 - [ ] Riktig prislista/prisspann (nuvarande är platshållare)
 - [x] Vägbeskrivning/parkering/kollektivtrafik-text till kontaktsektionen
 - [x] Bekräfta om ni är anslutna till statligt tandvårdsstöd/högkostnadsskydd — lyft fram på sajten om ja (bekräftat: anslutna till Försäkringskassan)
