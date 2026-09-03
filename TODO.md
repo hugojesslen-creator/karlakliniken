@@ -28,5 +28,5 @@
 - [ ] Svara på de negativa Google-recensionerna — vänta tills profilen är verifierad
 
 ## Vänta med tills ovanstående är klart
-- [ ] Google-betygsbadge på sajten ("3,9★ baserat på 41 recensioner, se alla →") — lägg till EFTER att recensionerna är besvarade, annars drar den mer uppmärksamhet till obesvarad kritik än den ger förtroende
+- [ ] "Vad patienter säger"-sektionen — borttagen helt från sajten för nu (kändes halvfärdig med bara platshållarcitat). Lägg tillbaka med riktiga omdömen/Google-betygsbadge EFTER att recensionerna är besvarade
 - [ ] Ta bort sökmotorspärren (`noindex` + `robots.txt`) — när sajten är redo att gå live
