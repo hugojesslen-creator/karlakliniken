@@ -28,6 +28,8 @@
 - [x] Göra anspråk på Google Business-profilen — videoverifiering inskickad, status "Behandlas" hos Google (väntar på godkännande, tar några dagar)
 - [ ] Svara på de negativa Google-recensionerna — vänta tills profilen är verifierad
 
+## Beslutat — kommer INTE att göras
+- [x] ~~Google-betygsbadge/"Vad patienter säger"-sektion~~ — permanent beslut, inte bara pausat: klienten vill inte visa betyg/recensioner alls, känns "kladdigt" och kliniken behöver inte bevisa att den är bra. Ta inte upp igen.
+
 ## Vänta med tills ovanstående är klart
-- [ ] "Vad patienter säger"-sektionen — borttagen helt från sajten för nu (kändes halvfärdig med bara platshållarcitat). Lägg tillbaka med riktiga omdömen/Google-betygsbadge EFTER att recensionerna är besvarade
 - [ ] Ta bort sökmotorspärren (`noindex` + `robots.txt`) — när sajten är redo att gå live
